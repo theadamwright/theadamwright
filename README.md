@@ -6,7 +6,7 @@ But the part I love most is definitely connecting with customers. Whether I'm ch
 
 ## 🚀 Where I've been
 
-Before I working on Distributed Systems with PGD, I spent my time across a few different corners of the Postgres ecosystem:
+Before working on Distributed Systems with PGD, I spent my time across a few different corners of the Postgres ecosystem:
 
 * **EDB Database Servesr:** I helped steer EDB’s contributions to open-source PostgreSQL and managed enhancements for our commercial distributions.
 * **Cloud Native & Kubernetes:** I was part of the early crew bringing Postgres to containers and K8s, including some of the initial work that eventually became the **CloudNativePG** project.
@@ -24,6 +24,10 @@ Before I working on Distributed Systems with PGD, I spent my time across a few d
 Not big on socials, but feel free to reach out **[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_HERE)**. 
 
 In 2026, I plan to be more active here on **[GitHub](https://github.com/theadamwright)**.
+
+## 🎙️ More About Me
+
+If you want to read more about my journey, I was featured a while back as a **[PostgreSQL Person of the Week](https://postgresql.life/post/adam_wright/)**.
  
 
 <!--
