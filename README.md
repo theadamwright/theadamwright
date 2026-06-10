@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adam Wright
 
-I’m the Product Manager for EDB Postgres Distributed (PGD). Most of my days are filled with the classic Product Management staples like roadmap development and backlog grooming.
+A builder turned Product Manager, now building again with AI. I lead product for EDB Postgres Distributed (PGD), where I spend my days shaping roadmaps and driving priorities that move the product forward.
 
 But the part I love most is definitely connecting with customers. Whether I'm chatting with ISVs about embedding our tech to enable their own software, running live demos, or turning customer wishlists into actual features, I'm all about making a true distributed system work on top of actual PostgreSQL. 
 
