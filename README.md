@@ -23,6 +23,16 @@ Before working on Distributed Systems with PGD, I spent my time across a few dif
 
 I write about distributed Postgres, database security, and Kubernetes on my blog: **[theadamwright.github.io](https://theadamwright.github.io)**.
 
+## 🎥 Talks
+
+A few presentations I've given over the years:
+
+* **[Demystifying Kubernetes for Postgres DBAs: A Guide to Operators](https://www.youtube.com/watch?v=Av_PdrIpwvw)** — PGConf.EU 2024
+* **[EPAS 15: The Most Secure Postgres](https://www.youtube.com/watch?v=ID2c6tQpDjQ)** — EDB, 2023
+* **[Cloud Native Patterns with Postgres on K8s](https://www.youtube.com/watch?v=Cgf1Z42Qzzg)** — DevOps Conference, 2021
+
+More on my **[Talks page](https://theadamwright.github.io/talks/)**.
+
 ## 🌐 Socials
 
 Not big on socials, but feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/theadamwright)**.
