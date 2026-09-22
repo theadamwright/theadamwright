@@ -10,7 +10,7 @@ When a conversation needs a working prototype rather than a slide, I build it. [
 
 * **EDB Postgres Distributed:** active-active replication and distributed high availability. Where I am now.
 * **EDB Database Servers:** owned the roadmap for EDB's commercial Postgres distributions through the 15 and 16 releases, and took customer requirements from enterprise deployments to EDB's PostgreSQL committers and contributors.
-* **Cloud Native & Kubernetes:** designed and launched EDB's first Postgres Kubernetes operator, from architecture through commercial GA. EDB later open-sourced that codebase as [CloudNativePG](https://cloudnative-pg.io/), now maintained by an independent community and a CNCF project since January 2025.
+* **Cloud Native & Kubernetes:** helped launched EDB's first Postgres Kubernetes operator, from architecture through commercial GA. EDB later open-sourced that codebase as [CloudNativePG](https://cloudnative-pg.io/), now maintained by an independent community and a CNCF project since January 2025.
 * **Professional Services:** years in the field doing Oracle to Postgres migrations. Still the best education I've had in what customers actually need.
 
 ## 👀 Tech Interests
