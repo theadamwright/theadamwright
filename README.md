@@ -1,31 +1,30 @@
 # 👋 Hi, I'm Adam Wright
 
-A builder turned Product Manager, now building again with AI. I lead product for EDB Postgres Distributed (PGD), where I spend my days shaping roadmaps and driving priorities that move the product forward.
+I'm a builder turned Product Manager, and I still write code. I lead product for EDB Postgres Distributed (PGD), which is active-active Postgres for people who can't take a write outage: banks, payment processors, telcos, and emergency services. In production that currently looks like 80+ core banking systems, one customer running 350+ clusters across 11,000+ cores, and a single cluster at 250 nodes.
 
-But the part I love most is definitely connecting with customers. Whether I'm chatting with ISVs about embedding our tech to enable their own software, running live demos, or turning customer wishlists into actual features, I'm all about making a true distributed system work on top of actual PostgreSQL. 
+The part I like most is the customer side. Whether that's working with ISVs embedding PGD in their own software, running live demos, or turning a wishlist into an actual feature, the interesting problem is always the same: making a genuinely distributed system behave on top of actual PostgreSQL.
+
+When a conversation needs a working prototype rather than a slide, I build it. [cider-press](https://github.com/theadamwright/cider-press) is one of those, a Rust tool that presses a three-node PGD cluster out of Apple's container runtime for local testing.
 
 ## 🚀 Where I've been
 
-Before working on Distributed Systems with PGD, I spent my time across a few different corners of the Postgres ecosystem:
+* **EDB Postgres Distributed:** active-active replication and distributed high availability. Where I am now.
+* **EDB Database Servers:** owned the roadmap for EDB's commercial Postgres distributions through the 15 and 16 releases, and took customer requirements from enterprise deployments to EDB's PostgreSQL committers and contributors.
+* **Cloud Native & Kubernetes:** designed and launched EDB's first Postgres Kubernetes operator, from architecture through commercial GA. EDB later open-sourced that codebase as [CloudNativePG](https://cloudnative-pg.io/), now maintained by an independent community and a CNCF project since January 2025.
+* **Professional Services:** years in the field doing Oracle to Postgres migrations. Still the best education I've had in what customers actually need.
 
-* **EDB Database Servers:** I helped steer EDB’s contributions to open-source PostgreSQL and managed enhancements for our commercial distributions.
-* **Cloud Native & Kubernetes:** I was part of the early crew bringing Postgres to containers and K8s, including some of the initial work that eventually became the **CloudNativePG** project.
-* **Professional Services:** Back in the day, I worked in the field getting my hands dirty doing migrations from Oracle to Postgres.
+## 👀 Tech Interests
 
-## 👀 Tech Interests 
-
-* **Daily Driving KDE:** I’m a big fan of the KDE desktop environment.
-* **K8s & Databases:** I enjoy building and running containerized systems, specifically when there’s a database involved.
-* **Security & Observability:** Huge fan of using **osquery** to keep an eye on what’s actually happening under the hood.
-* **AI Workflows:** Like everyone else lately, I spend a fair amount of time both weaving AI into my daily routine and poking at where it actually belongs inside the products I manage.
+* **Daily driving KDE:** long-time fan of the KDE desktop environment.
+* **K8s & databases:** building and running containerized systems, particularly when there's a database in the middle of it.
+* **Security & observability:** still a fan of [osquery](https://osquery.io/) for seeing what's actually happening under the hood.
+* **AI workflows:** weaving AI into my day, and working out where it genuinely belongs inside the products I manage rather than where it just demos well.
 
 ## ✍️ Writing
 
-I write about distributed Postgres, database security, and Kubernetes on my blog: **[theadamwright.github.io](https://theadamwright.github.io)**.
+I write about distributed Postgres, database security, and Kubernetes at **[theadamwright.github.io](https://theadamwright.github.io)**.
 
 ## 🎥 Talks
-
-A few presentations I've given over the years:
 
 * **[Demystifying Kubernetes for Postgres DBAs: A Guide to Operators](https://www.youtube.com/watch?v=Av_PdrIpwvw)** — PGConf.EU 2024
 * **[EPAS 15: The Most Secure Postgres](https://www.youtube.com/watch?v=ID2c6tQpDjQ)** — EDB, 2023
@@ -33,10 +32,7 @@ A few presentations I've given over the years:
 
 More on my **[Talks page](https://theadamwright.github.io/talks/)**.
 
-## 🌐 Socials
+## 🌐 Elsewhere
 
-Not big on socials, but feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/theadamwright)**.
-
-## 🎙️ More About Me
-
-If you want to read more about my journey, I was featured a while back as a **[PostgreSQL Person of the Week](https://postgresql.life/post/adam_wright/)**.
+* **[LinkedIn](https://www.linkedin.com/in/theadamwright)**
+* **[PostgreSQL Person of the Week](https://postgresql.life/post/adam_wright/)**, if you want the longer version of how I got here
